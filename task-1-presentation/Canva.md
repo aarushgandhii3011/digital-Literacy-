@@ -1,6 +1,6 @@
 # 🎓 Task-1: Digital Literacy Infographic
 
-## 📌 Overview
+## 📌 Overview 
 This repository contains my submission for Task-1 as the Student Digital Ambassador.  
 I created a one-page infographic to help my batchmates understand **Digital Literacy** and why it matters.
 
